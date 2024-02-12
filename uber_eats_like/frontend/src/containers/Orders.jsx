@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 // components
 import { OrderDetailItem } from '../components/OrderDetailItem';
 import { OrderButton } from '../components/Buttons/OrderButton';
-import CircularProgress from '@material-ui/core/CircularProgress';
+import CircularProgress from '@mui/material/CircularProgress';
 
 
 // apis

@@ -1,7 +1,7 @@
 import React from 'react';
 
 // components
-import { DialogContent, Dialog, DialogTitle } from '@material-ui/core';
+import { DialogContent, Dialog, DialogTitle } from '@mui/material';
 import { OrderButton } from './Buttons/OrderButton';
 
 export const NewOrderConfirmDialog = ({
