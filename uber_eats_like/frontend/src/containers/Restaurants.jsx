@@ -1,7 +1,7 @@
 import React, { Fragment, useReducer, useEffect } from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
-import Skeleton from '@material-ui/lab/Skeleton';
+import Skeleton from '@mui/lab/Skeleton';
 
 // apis
 import { fetchRestaurants } from '../apis/restaurants';

@@ -6,7 +6,7 @@ import { useHistory, Link } from "react-router-dom";
 import { LocalMallIcon } from '../components/Icons';
 import { FoodWrapper } from '../components/FoodWrapper';
 import { NewOrderConfirmDialog } from '../components/NewOrderConfirmDialog';
-import Skeleton from '@material-ui/lab/Skeleton';
+import Skeleton from '@mui/lab/Skeleton';
 
 // reducers
 import {
